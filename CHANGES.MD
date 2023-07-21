@@ -1,5 +1,5 @@
 ## Challenge 1
-<h3>
+<h3> First, I created the table with the following informations, after that I used Join on LifeExpectancy to get the results and ordered it 
 <hr>
 
 ## Challenge 2
